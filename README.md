@@ -1,3 +1,1 @@
-# asynchronousBallMovement
-Boiler plate for ball moving aysnchronously
-https://agastya474748.github.io/car-racing/
+The code is fixed.. put the class files properly as  the folder structure was not correct in your repo
